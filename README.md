@@ -9,9 +9,9 @@ DIVISIÓN DE INGENIERÍA ELÉCTRICA
 
 INGENIERÍA EN COMPUTACIÓN
 
-NOMBRE COMPLETO: Martínez Miranda Juan Carlos
-
-Nº de Cuenta: 318145042
+NOMBRES DE LOS INTEGRANTES DEL EQUIPO:  
+Gómez Vázquez Juan Pablo - Nº de Cuenta: 317210743
+Martínez Miranda Juan Carlos - Nº de Cuenta: 318145042
 
 GRUPO DE LABORATORIO: 11
 
